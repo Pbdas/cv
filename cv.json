@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Pierre Barbera",
+    "label": "Researcher (Computational Phylogenetics)",
+    "picture": "",
+    "email": "pierre.pbdas@gmail.com",
+    "phone": "",
+    "website": "https://github.com/Pbdas",
+    "summary": "I'm in the final months of my PhD program in Computational Bioinformatics, during which I've implemented and published successful high performance applications that are used on a daily basis in microbial ecology, microbiome, and metagenomic research.\n\nI am motivated by wanting to make a positive impact on the world, which currently has me interested in a wide variety of interests such as data analysis and communication, smart contracts, finance, renewable energy, and the sustainability space.",
+    "location": {
+      "countryCode": "US",
+      "address": "Germany"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pierre-barbera-80a624207",
+        "url": "https://www.linkedin.com/in/pierre-barbera-80a624207/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Heidelberg Institute for Theoretical Studies (HITS)",
+      "endDate": "2021-03-31",
+      "highlights": [],
+      "position": "Researcher",
+      "startDate": "2016-09-30",
+      "summary": "PhD work in the Computational Molecular Evolution (CME) group which focuses on High Performance Computational Phylogenetics. My research focused around applying phylogenetic methods to metagenomic/microbiome data analysis in a High Performance Computing context.",
+      "website": "https://www.linkedin.com/company/1258122"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Karlsruhe Institute of Technology (KIT)",
+      "area": "Computer Science",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2017-08-31",
+      "endDate": "2021-06-30",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Karlsruhe Institute of Technology (KIT)",
+      "area": "Computer Science",
+      "studyType": "Master of Science - MS",
+      "startDate": "2013-09-30",
+      "endDate": "2016-05-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Bioinformatics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Phylogenetics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "German",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "English",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "High Performance Computing (HPC)",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
