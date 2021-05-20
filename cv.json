@@ -1,21 +1,31 @@
 {
+  "meta": { "theme": "spartan" },
   "basics": {
     "name": "Pierre Barbera",
     "label": "Researcher (Computational Phylogenetics)",
-    "picture": "",
+    "picture": "https://raw.githubusercontent.com/Pbdas/cv/master/portrait.jpeg",
     "email": "pierre.pbdas@gmail.com",
     "phone": "",
     "website": "https://github.com/Pbdas",
     "summary": "I'm in the final months of my PhD program in Computational Bioinformatics, during which I've implemented and published successful high performance applications that are used on a daily basis in microbial ecology, microbiome, and metagenomic research.\n\nI am motivated by wanting to make a positive impact on the world, which currently has me interested in a wide variety of interests such as data analysis and communication, smart contracts, finance, renewable energy, and the sustainability space.",
     "location": {
-      "countryCode": "US",
-      "address": "Germany"
+      "countryCode": "DE",
+      "city": "Heidelberg"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "pierre-barbera-80a624207",
         "url": "https://www.linkedin.com/in/pierre-barbera-80a624207/"
+      },
+      {
+        "network": "twitter",
+        "username": "PierreBarbera",
+        "url": "https://twitter.com/PierreBarbera"
+      },
+      {
+        "network": "ORCID",
+        "url": "https://orcid.org/0000-0002-3437-150X"
       }
     ]
   },
@@ -35,7 +45,7 @@
     {
       "institution": "Karlsruhe Institute of Technology (KIT)",
       "area": "Computer Science",
-      "studyType": "Doctor of Philosophy - PhD",
+      "studyType": "Doctoral Degree",
       "startDate": "2017-08-31",
       "endDate": "2021-06-30",
       "gpa": "",
@@ -44,7 +54,7 @@
     {
       "institution": "Karlsruhe Institute of Technology (KIT)",
       "area": "Computer Science",
-      "studyType": "Master of Science - MS",
+      "studyType": "Master of Science",
       "startDate": "2013-09-30",
       "endDate": "2016-05-31",
       "gpa": "",
@@ -65,37 +75,7 @@
       "keywords": []
     },
     {
-      "name": "C++",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Research",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Phylogenetics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "German",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "English",
       "level": "",
       "keywords": []
     },
@@ -103,12 +83,35 @@
       "name": "High Performance Computing (HPC)",
       "level": "",
       "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "Highly Proficient",
+      "keywords": ["C", "C++", "python", "R", "cmake"]
+    },
+    {
+      "name": "Software Management/Deployment",
+      "level": "Highly Proficient",
+      "keywords": ["git", "Docker", "Conda", "homebrew"]
+    },
+    {
+      "name": "Linux/UNIX",
+      "level": "Highly Proficient",
+      "keywords": ["bash", "user management"]
     }
   ],
   "languages": [
     {
-      "language": "en",
+      "language": "german",
       "fluency": "Native Speaker"
+    },
+    {
+      "language": "english",
+      "fluency": "Highly Proficient"
+    },
+    {
+      "language": "catalan",
+      "fluency": "Beginner"
     }
   ],
   "interests": [],
