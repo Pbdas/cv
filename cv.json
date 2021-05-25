@@ -6,7 +6,7 @@
     "email": "pierre.pbdas@gmail.com",
     "phone": "",
     "website": "https://github.com/Pbdas",
-    "summary": "I'm in the final months of my PhD program in Computational Bioinformatics, during which I've implemented and published successful high performance applications that are used on a daily basis in microbial ecology, microbiome, and metagenomic research.\n\nI am motivated by wanting to make a positive impact on the world, which currently has me interested in a wide variety of interests such as data analysis and communication, smart contracts, finance, renewable energy, and the sustainability space.",
+    "summary": "I'm in the final months of my PhD program in Computational Bioinformatics, during which I've implemented and published successful high performance applications that are used on a daily basis in microbial ecology, microbiome, and metagenomic research. I am motivated by wanting to make a positive impact on the world, which currently has me interested in a wide variety of topics such as data analysis and communication, smart contracts, finance, renewable energy, and how to organize society in a more sustainable way.",
     "location": {
       "countryCode": "DE",
       "city": "Heidelberg"
@@ -31,11 +31,18 @@
   "work": [
     {
       "company": "Heidelberg Institute for Theoretical Studies (HITS)",
-      "endDate": "2021-03-31",
-      "highlights": [],
+      "highlights": [
+        "Developed, released, and maintained EPA-ng: a HPC software for Phylogenetic Placement",
+        "Developed, released, and maintained SCRAPP: a HPC pipeline for diversity quantification",
+        "Published several works in field-specific high impact journals",
+        "Advised multiple student seminars, as well as master theses",
+        "Taught classes in 'Introduction to Bioinformatics for Computer Scientists'",
+        "Teaching Assistant at the CoME10 summer school in Crete"
+      ],
       "position": "Researcher",
       "startDate": "2016-09-30",
-      "summary": "PhD work in the Computational Molecular Evolution (CME) group which focuses on High Performance Computational Phylogenetics. My research focused around applying phylogenetic methods to metagenomic/microbiome data analysis in a High Performance Computing context.",
+      "endDate": "2021-03-31",
+      "summary": "Member of the Computational Molecular Evolution (CME) group, which focuses on High Performance Computational Phylogenetics. My research focused around applying phylogenetic methods to metagenomic/microbiome data analysis in a High Performance Computing context.",
       "website": "https://www.linkedin.com/company/1258122"
     }
   ],
@@ -46,7 +53,6 @@
       "area": "Computer Science",
       "studyType": "Doctoral Degree",
       "startDate": "2017-08-31",
-      "endDate": "2021-06-30",
       "gpa": "",
       "courses": []
     },
@@ -61,42 +67,58 @@
     }
   ],
   "awards": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "EPA-ng: massively parallel evolutionary placement of genetic sequences",
+      "publisher": "Systematic Biology",
+      "releaseDate": "2019-03-31",
+      "url": "https://doi.org/10.1093/sysbio/syy054"
+    },
+    {
+      "name": "SCRAPP: A tool to assess the diversity of microbial samples from phylogenetic placements",
+      "publisher": "Molecular Ecology Resources",
+      "releaseDate": "2020-09-29",
+      "url": "https://doi.org/10.1111/1755-0998.13255"
+    },
+    {
+      "name": "Efficient Memory Management in Likelihood-based Phylogenetic Placement",
+      "publisher": "IPDPS21",
+      "releaseDate": "2021-05-17",
+      "url": "https://doi.org/10.1093/sysbio/syy054"
+    },
+    {
+      "name": "Genesis and Gappa: processing, analyzing and visualizing phylogenetic (placement) data",
+      "publisher": "Bioinformatics",
+      "releaseDate": "2020-02-04",
+      "url": "https://doi.org/10.1093/bioinformatics/btaa070"
+    },
+    {
+      "name": "Long‐read metabarcoding of the eukaryotic rDNA operon to phylogenetically and taxonomically resolve environmental diversity",
+      "publisher": "Molecular Ecology Resources",
+      "releaseDate": "2019-11-09",
+      "url": "https://doi.org/10.1111/1755-0998.13117"
+    }
+  ],
   "skills": [
     {
       "name": "Bioinformatics",
-      "level": "",
-      "keywords": []
+      "keywords": ["Phylogenetics", "Genomics", "Data Analysis"]
     },
     {
-      "name": "Data Analysis",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Phylogenetics",
-      "level": "",
-      "keywords": []
+      "name": "Research",
+      "keywords": ["Scientific Writing", "Communication"]
     },
     {
       "name": "High Performance Computing (HPC)",
-      "level": "",
-      "keywords": []
+      "keywords": ["MPI", "OpenMP", "Parallelization"]
     },
     {
       "name": "Programming",
-      "level": "Highly Proficient",
-      "keywords": ["C", "C++", "python", "R", "cmake"]
+      "keywords": ["C/C++", "Python", "R", "cmake"]
     },
     {
-      "name": "Software Management/Deployment",
-      "level": "Highly Proficient",
-      "keywords": ["git", "Docker", "Conda", "homebrew"]
-    },
-    {
-      "name": "Linux/UNIX",
-      "level": "Highly Proficient",
-      "keywords": ["bash", "user management"]
+      "name": "DevOps",
+      "keywords": ["git", "Docker", "Conda", "homebrew", "CI Frameworks", "Linux/UNIX"]
     }
   ],
   "languages": [
@@ -113,6 +135,10 @@
       "fluency": "Beginner"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+    "name": "",
+    "keywords": ["Future of Work", "Climate Change"]
+  }],
   "references": []
 }
